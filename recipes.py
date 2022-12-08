@@ -2,7 +2,7 @@
 # Program by Vayradyan.S.
 #
 # Hello everyone!
-# -----------------------------------------
+# ----------------------------------------
 import pandas as pd
 from joblib import load
 
